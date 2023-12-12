@@ -1,7 +1,7 @@
 
 <h3 align="center">
         <samp>&gt; Olá a todos!, Eu sou o
-                <b><a target="_blank" href="https://shahriarshafin.me/">João Victor</a></b>
+                <b><a target="_blank" href="">João Victor</a></b>
         </samp>
 </h3>
 <br>
